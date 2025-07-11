@@ -149,6 +149,8 @@ nav{
     font-weight: bold;
     max-width: 528px;
     max-height: 232px;
+    padding-bottom: 200px;
+    padding-top: 200px;
 }
 
 .form{
@@ -157,4 +159,22 @@ nav{
     padding-bottom: 71px;
     padding-top: 71px;
     border-radius: 10px;
+    
+}
+.form-box{
+    border-radius: 10px;
+    min-width: 497px;
+    min-height: 70px;
+    padding: 20px;
+}
+
+.form-box-ext{
+    height: 167px;
+    border-radius: 10px;
+    min-width: 497px;
+    text-align: top right;
+}
+
+form button{
+    width: 497px;
 }
