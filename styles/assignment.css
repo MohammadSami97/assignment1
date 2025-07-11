@@ -94,8 +94,9 @@ nav{
     background-color: #4E47FF10;
     text-align: center ;
     padding: 50px 142px;
-    margin: 130px 160px 130px 140px ;
+    margin: 130px 150px 130px 150px ;
     border-radius: 24px;
+    max-width: 1140px;
 
 }
 
@@ -142,6 +143,7 @@ nav{
     align-content: center;
     margin: 92px 150px 14px 150px;
     justify-content: space-between;
+    gap: 115px;
 }
 
 .form-title{
@@ -151,30 +153,34 @@ nav{
     max-height: 232px;
     padding-bottom: 200px;
     padding-top: 200px;
+    align-content: center;
 }
 
 .form{
     font-size: 18px;
     font-weight: 400;
-    padding-bottom: 71px;
+    padding-bottom: 85px;
     padding-top: 71px;
     border-radius: 10px;
+    max-width: 497px;
+    max-height: 490px;
     
 }
 .form-box{
     border-radius: 10px;
-    min-width: 497px;
-    min-height: 70px;
+    width: 497px;
+    height: 70px;
     padding: 20px;
 }
 
 .form-box-ext{
-    height: 167px;
+    height:167px;;
     border-radius: 10px;
-    min-width: 497px;
-    text-align: top right;
+    width: 533px;
+    text-align: start;
 }
 
 form button{
-    width: 497px;
+    width: 533px;
+    height: 62px;
 }
