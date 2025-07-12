@@ -240,3 +240,84 @@ form button{
     
     
 }
+
+.fb-section{
+    max-width: 1140px;
+    margin: 137px 150px;
+    
+    
+}
+
+.fb-section-title{
+    margin-bottom: 50px;
+    font-size: 42px;
+    font-weight: bold;
+    color: #252432;
+    text-align: center;
+    
+}
+
+.fb-card-section{
+    display: flex;
+    gap: 20px;
+}
+
+.fb-card{
+    max-width: 366.67px;
+    border-radius: 14px;
+    background-color: #FFFFFF50;
+    border-color: #F2EDED;
+    padding: 24px;
+}
+
+.fb-icons{
+    max-width: 116px;
+    
+}
+
+.fb-title{
+    font-size: 24px;
+    font-weight: 600;
+    color: #1E1E1E;
+    margin: 0%;
+}
+
+.fb-description{
+    font-size: 16px;
+    color: #1E1E1E;
+    margin-top: 0%;
+}
+
+.fb-user{
+    display:flex ;
+    gap: 6px;
+    align-content: center;
+    text-align: center right;
+}
+
+.fb-user-img{
+    max-width: 40px;
+    max-height: 40px;
+    
+    border-radius: 9999px;
+    
+}
+
+.fb-user-about{
+    
+}
+
+.fb-user-name{
+    margin: 0%;
+    font-size: 16px;
+    font-weight: 600;
+    color: #757575;
+}
+
+.fb-date{
+    margin: 0%;
+    font-size: 16px;
+   
+    color: #B3B3B3;
+}
+
